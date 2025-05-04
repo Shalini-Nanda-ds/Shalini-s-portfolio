@@ -1,0 +1,11 @@
+# Node modules (if using npm for any tool)
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build or temp folders (if you use any build tool)
+dist/
+build/
+images/
